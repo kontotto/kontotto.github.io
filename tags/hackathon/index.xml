@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kontotto Site</title>
-    <link>https://kontotto.github.io/</link>
-    <description>Recent content on Kontotto Site</description>
+    <title>Hackathon on Kontotto Site</title>
+    <link>https://kontotto.github.io/tags/hackathon/</link>
+    <description>Recent content in Hackathon on Kontotto Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 13 Dec 2017 10:52:37 +0000</lastBuildDate>
     
-	<atom:link href="https://kontotto.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kontotto.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,15 +29,6 @@ Hackdayは２４時間でプロトタイプを作ります。当然、実装も�
 私たちのチームはトリから三番目の発表です（もうちょっと前が良かった）。色々なチームが発表しているのを見て、率直な感想として、技術的に素晴らしい作品が多かったように思えました。詳細は別の記事で書くかもしれませんが、とにかくすごかった（何も伝わらない）。
 ニコ生では視聴者が作品ごとにこれ好きorぼちぼちを選べるようになっています。 一番高くて９５％、低くて２５％くらいなのでだいぶ高低差があります。 私たちのチームはプレゼンを行った人が上手にやってくれたので比較的高評価をもらいました。やったぜ。
     賞などは取れませんでしたが、楽しかったです。来年も参加できれば、ぜひ参加したいです！</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://kontotto.github.io/post/hello/</link>
-      <pubDate>Fri, 01 Dec 2017 07:00:54 +0000</pubDate>
-      
-      <guid>https://kontotto.github.io/post/hello/</guid>
-      <description>Test</description>
     </item>
     
   </channel>
