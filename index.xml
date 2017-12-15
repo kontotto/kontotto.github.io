@@ -5,10 +5,21 @@
     <link>https://kontotto.github.io/</link>
     <description>Recent content on Kontotto Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Dec 2017 10:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2017 20:01:49 +0900</lastBuildDate>
     
 	<atom:link href="https://kontotto.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>なにか</title>
+      <link>https://kontotto.github.io/post/nanika/</link>
+      <pubDate>Fri, 15 Dec 2017 20:01:49 +0900</pubDate>
+      
+      <guid>https://kontotto.github.io/post/nanika/</guid>
+      <description>最近いろんなことが面白そうに見えてしまう。 バックエンドでCIやるのも面白そうだし、フロントエンド周り触るのも面白そうだし、デザイナーもいいなーと思ってしまう。 デザイナーは無理か。絵のセンスがないし
+うーむ、いろんなことに手を伸ばしてしまうと、何も得られないのが怖いんだよな 時間が無限にあればいいのに
+時間が無限にあったら一生ゲームしてそうだけども</description>
+    </item>
     
     <item>
       <title>Hackdayに参加したお話</title>
