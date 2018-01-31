@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kontotto.github.io/post/nunu/</loc>
+    <lastmod>2018-01-31T19:27:49+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kontotto.github.io/post/nanika/</loc>
     <lastmod>2017-12-15T20:01:49+09:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>https://kontotto.github.io/post/hackday/</loc>
     <lastmod>2017-12-13T10:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kontotto.github.io/post/nunu/</loc>
-    <lastmod>2017-01-31T19:27:49+09:00</lastmod>
   </url>
   
   <url>
@@ -36,13 +36,13 @@
   
   <url>
     <loc>https://kontotto.github.io/</loc>
-    <lastmod>2017-12-15T20:01:49+09:00</lastmod>
+    <lastmod>2018-01-31T19:27:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kontotto.github.io/post/</loc>
-    <lastmod>2017-12-15T20:01:49+09:00</lastmod>
+    <lastmod>2018-01-31T19:27:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
